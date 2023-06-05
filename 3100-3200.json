@@ -1,0 +1,70 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "__typename": "QuestionListNode",
+      "questions": [
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3527003431874285,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "面试题 17.26",
+          "isFavor": false,
+          "solutionNum": 89,
+          "title": "Sparse Similarity LCCI",
+          "titleCn": "稀疏相似度",
+          "titleSlug": "sparse-similarity-lcci",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 4,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/1608896124-NAAKhT-images.png",
+                "slug": "bytedance",
+                "__typename": "CommonTagNode"
+              },
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              },
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        }
+      ],
+      "hasMore": false,
+      "total": 3101
+    }
+  }
+}

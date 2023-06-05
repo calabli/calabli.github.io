@@ -1,0 +1,3596 @@
+{
+  "data": {
+    "problemsetQuestionList": {
+      "__typename": "QuestionListNode",
+      "questions": [
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3845466726217061,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2601",
+          "isFavor": false,
+          "solutionNum": 86,
+          "title": "Prime Subtraction Operation",
+          "titleCn": "质数减法运算",
+          "titleSlug": "prime-subtraction-operation",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "3vubuc",
+              "name": "Number Theory",
+              "slug": "number-theory",
+              "nameTranslated": "数论",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.33314456342668863,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2602",
+          "isFavor": false,
+          "solutionNum": 98,
+          "title": "Minimum Operations to Make All Array Elements Equal",
+          "titleCn": "使数组元素全部相等的最少操作次数",
+          "titleSlug": "minimum-operations-to-make-all-array-elements-equal",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "kr7kj3",
+              "name": "Prefix Sum",
+              "slug": "prefix-sum",
+              "nameTranslated": "前缀和",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4347437957507588,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2603",
+          "isFavor": false,
+          "solutionNum": 42,
+          "title": "Collect Coins in a Tree",
+          "titleCn": "收集树中金币",
+          "titleSlug": "collect-coins-in-a-tree",
+          "topicTags": [
+            {
+              "id": "nt875",
+              "name": "Tree",
+              "slug": "tree",
+              "nameTranslated": "树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "ns19t",
+              "name": "Topological Sort",
+              "slug": "topological-sort",
+              "nameTranslated": "拓扑排序",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4052631578947368,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2604",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Minimum Time to Eat All Grains",
+          "titleCn": "吃掉所有谷子的最短时间",
+          "titleSlug": "minimum-time-to-eat-all-grains",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6384080859128237,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2605",
+          "isFavor": false,
+          "solutionNum": 42,
+          "title": "Form Smallest Number From Two Digit Arrays",
+          "titleCn": "从两个数字数组里生成最小数字",
+          "titleSlug": "form-smallest-number-from-two-digit-arrays",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "2men8m",
+              "name": "Enumeration",
+              "slug": "enumeration",
+              "nameTranslated": "枚举",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5265638934896165,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2606",
+          "isFavor": false,
+          "solutionNum": 36,
+          "title": "Find the Substring With Maximum Cost",
+          "titleCn": "找到最大开销的子字符串",
+          "titleSlug": "find-the-substring-with-maximum-cost",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3838248436103664,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2607",
+          "isFavor": false,
+          "solutionNum": 23,
+          "title": "Make K-Subarray Sums Equal",
+          "titleCn": "使子数组元素和相等",
+          "titleSlug": "make-k-subarray-sums-equal",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "3vubuc",
+              "name": "Number Theory",
+              "slug": "number-theory",
+              "nameTranslated": "数论",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.40738561129910256,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2608",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Shortest Cycle in a Graph",
+          "titleCn": "图中的最短环",
+          "titleSlug": "shortest-cycle-in-a-graph",
+          "topicTags": [
+            {
+              "id": "n30w2",
+              "name": "Breadth-First Search",
+              "slug": "breadth-first-search",
+              "nameTranslated": "广度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4923642354730372,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2609",
+          "isFavor": false,
+          "solutionNum": 91,
+          "title": "Find the Longest Balanced Substring of a Binary String",
+          "titleCn": "最长平衡子字符串",
+          "titleSlug": "find-the-longest-balanced-substring-of-a-binary-string",
+          "topicTags": [
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8501546568908237,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2610",
+          "isFavor": false,
+          "solutionNum": 80,
+          "title": "Convert an Array Into a 2D Array With Conditions",
+          "titleCn": "转换二维数组",
+          "titleSlug": "convert-an-array-into-a-2d-array-with-conditions",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.477432524381946,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2611",
+          "isFavor": false,
+          "solutionNum": 61,
+          "title": "Mice and Cheese",
+          "titleCn": "老鼠和奶酪",
+          "titleSlug": "mice-and-cheese",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xp2oh0e",
+              "name": "Heap (Priority Queue)",
+              "slug": "heap-priority-queue",
+              "nameTranslated": "堆（优先队列）",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.20550734903488577,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2612",
+          "isFavor": false,
+          "solutionNum": 33,
+          "title": "Minimum Reverse Operations",
+          "titleCn": "最少翻转操作数",
+          "titleSlug": "minimum-reverse-operations",
+          "topicTags": [
+            {
+              "id": "n30w2",
+              "name": "Breadth-First Search",
+              "slug": "breadth-first-search",
+              "nameTranslated": "广度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "qwy9jd",
+              "name": "Ordered Set",
+              "slug": "ordered-set",
+              "nameTranslated": "有序集合",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/78cf55416c57e11ccfa8f8505bf4bd02961216f58ed1befde1f7002016eebabb-12849.jpg",
+                "slug": "infosys",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.475,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2613",
+          "isFavor": false,
+          "solutionNum": 3,
+          "title": "Beautiful Pairs",
+          "titleCn": "美数对",
+          "titleSlug": "beautiful-pairs",
+          "topicTags": [
+            {
+              "id": "vlt55",
+              "name": "Geometry",
+              "slug": "geometry",
+              "nameTranslated": "几何",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dp403",
+              "name": "Divide and Conquer",
+              "slug": "divide-and-conquer",
+              "nameTranslated": "分治",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "qwy9jd",
+              "name": "Ordered Set",
+              "slug": "ordered-set",
+              "nameTranslated": "有序集合",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3260156557484585,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2614",
+          "isFavor": false,
+          "solutionNum": 47,
+          "title": "Prime In Diagonal",
+          "titleCn": "对角线上的质数",
+          "titleSlug": "prime-in-diagonal",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "3vubuc",
+              "name": "Number Theory",
+              "slug": "number-theory",
+              "nameTranslated": "数论",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3528085416804828,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2615",
+          "isFavor": false,
+          "solutionNum": 62,
+          "title": "Sum of Distances",
+          "titleCn": "等值距离和",
+          "titleSlug": "sum-of-distances",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "kr7kj3",
+              "name": "Prefix Sum",
+              "slug": "prefix-sum",
+              "nameTranslated": "前缀和",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.38606218743205045,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2616",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Minimize the Maximum Difference of Pairs",
+          "titleCn": "最小化数对的最大差值",
+          "titleSlug": "minimize-the-maximum-difference-of-pairs",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.32496012759170656,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2617",
+          "isFavor": false,
+          "solutionNum": 62,
+          "title": "Minimum Number of Visited Cells in a Grid",
+          "titleCn": "网格图中最少访问的格子数",
+          "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+          "topicTags": [
+            {
+              "id": "nn04j",
+              "name": "Stack",
+              "slug": "stack",
+              "nameTranslated": "栈",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n6a2i",
+              "name": "Union Find",
+              "slug": "union-find",
+              "nameTranslated": "并查集",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n16hs",
+              "name": "Binary Indexed Tree",
+              "slug": "binary-indexed-tree",
+              "nameTranslated": "树状数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nytfd",
+              "name": "Segment Tree",
+              "slug": "segment-tree",
+              "nameTranslated": "线段树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": true,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/d2e85988beccb271af4b1a8f4767e4bdf4c085aaf5aaef093347d778e4e138d7-20.png",
+                "slug": "huawei",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3350307287093942,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2618",
+          "isFavor": false,
+          "solutionNum": 37,
+          "title": "Check if Object Instance of Class",
+          "titleCn": "检查是否是类的对象实例",
+          "titleSlug": "check-if-object-instance-of-class",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7489659560929048,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2619",
+          "isFavor": false,
+          "solutionNum": 50,
+          "title": "Array Prototype Last",
+          "titleCn": "数组原型对象的最后一个元素",
+          "titleSlug": "array-prototype-last",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8326996197718631,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2620",
+          "isFavor": false,
+          "solutionNum": 46,
+          "title": "Counter",
+          "titleCn": "计数器",
+          "titleSlug": "counter",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8506866416978777,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2621",
+          "isFavor": false,
+          "solutionNum": 32,
+          "title": "Sleep",
+          "titleCn": "睡眠函数",
+          "titleSlug": "sleep",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5518535898639136,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2622",
+          "isFavor": false,
+          "solutionNum": 41,
+          "title": "Cache With Time Limit",
+          "titleCn": "有时间限制的缓存",
+          "titleSlug": "cache-with-time-limit",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6440677966101694,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2623",
+          "isFavor": false,
+          "solutionNum": 30,
+          "title": "Memoize",
+          "titleCn": "记忆函数",
+          "titleSlug": "memoize",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.662527392257122,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2624",
+          "isFavor": false,
+          "solutionNum": 38,
+          "title": "Snail Traversal",
+          "titleCn": "蜗牛排序",
+          "titleSlug": "snail-traversal",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5376712328767124,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2625",
+          "isFavor": false,
+          "solutionNum": 45,
+          "title": "Flatten Deeply Nested Array",
+          "titleCn": "扁平化嵌套数组",
+          "titleSlug": "flatten-deeply-nested-array",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7938009787928222,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2626",
+          "isFavor": false,
+          "solutionNum": 35,
+          "title": "Array Reduce Transformation",
+          "titleCn": "数组归约运算",
+          "titleSlug": "array-reduce-transformation",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7807424593967517,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2627",
+          "isFavor": false,
+          "solutionNum": 24,
+          "title": "Debounce",
+          "titleCn": "函数防抖",
+          "titleSlug": "debounce",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3299299883313886,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2628",
+          "isFavor": false,
+          "solutionNum": 39,
+          "title": "JSON Deep Equal",
+          "titleCn": "完全相等的 JSON 字符串",
+          "titleSlug": "json-deep-equal",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8145670754366406,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2629",
+          "isFavor": false,
+          "solutionNum": 42,
+          "title": "Function Composition",
+          "titleCn": "复合函数",
+          "titleSlug": "function-composition",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4771825396825397,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2630",
+          "isFavor": false,
+          "solutionNum": 15,
+          "title": "Memoize II",
+          "titleCn": "记忆函数 II",
+          "titleSlug": "memoize-ii",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.821203953279425,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2631",
+          "isFavor": false,
+          "solutionNum": 25,
+          "title": "Group By",
+          "titleCn": "分组",
+          "titleSlug": "group-by",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8256936067551267,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2632",
+          "isFavor": false,
+          "solutionNum": 34,
+          "title": "Curry",
+          "titleCn": "柯里化",
+          "titleSlug": "curry",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5625413633355394,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2633",
+          "isFavor": false,
+          "solutionNum": 35,
+          "title": "Convert Object to JSON String",
+          "titleCn": "将对象转换为 JSON 字符串",
+          "titleSlug": "convert-object-to-json-string",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6913095956547979,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2634",
+          "isFavor": false,
+          "solutionNum": 41,
+          "title": "Filter Elements from Array",
+          "titleCn": "过滤数组中的元素",
+          "titleSlug": "filter-elements-from-array",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7473320778405524,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2635",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Apply Transform Over Each Element in Array",
+          "titleCn": "转换数组中的每个元素",
+          "titleSlug": "apply-transform-over-each-element-in-array",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6150265957446809,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2636",
+          "isFavor": false,
+          "solutionNum": 25,
+          "title": "Promise Pool",
+          "titleCn": "Promise 对象池",
+          "titleSlug": "promise-pool",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6390899689762151,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2637",
+          "isFavor": false,
+          "solutionNum": 21,
+          "title": "Promise Time Limit",
+          "titleCn": "有时间限制的 Promise 对象",
+          "titleSlug": "promise-time-limit",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5901639344262295,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2638",
+          "isFavor": false,
+          "solutionNum": 3,
+          "title": "Count the Number of K-Free Subsets",
+          "titleCn": "统计 K-Free 子集的总数",
+          "titleSlug": "count-the-number-of-k-free-subsets",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.766506824050166,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2639",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Find the Width of Columns of a Grid",
+          "titleCn": "查询网格图中每一列的宽度",
+          "titleSlug": "find-the-width-of-columns-of-a-grid",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/25ef7004b08edb8c72e8ce7d36d490025c6246c908e5888805f29798acf391ca-logo-samsung-1-normal-636.png",
+                "slug": "samsung",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8024960380348652,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2640",
+          "isFavor": false,
+          "solutionNum": 30,
+          "title": "Find the Score of All Prefixes of an Array",
+          "titleCn": "一个数组所有前缀的分数",
+          "titleSlug": "find-the-score-of-all-prefixes-of-an-array",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "kr7kj3",
+              "name": "Prefix Sum",
+              "slug": "prefix-sum",
+              "nameTranslated": "前缀和",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6995827538247567,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2641",
+          "isFavor": false,
+          "solutionNum": 37,
+          "title": "Cousins in Binary Tree II",
+          "titleCn": "二叉树的堂兄弟节点 II",
+          "titleSlug": "cousins-in-binary-tree-ii",
+          "topicTags": [
+            {
+              "id": "nt875",
+              "name": "Tree",
+              "slug": "tree",
+              "nameTranslated": "树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n8id6",
+              "name": "Depth-First Search",
+              "slug": "depth-first-search",
+              "nameTranslated": "深度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n30w2",
+              "name": "Breadth-First Search",
+              "slug": "breadth-first-search",
+              "nameTranslated": "广度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "ehgq01",
+              "name": "Binary Tree",
+              "slug": "binary-tree",
+              "nameTranslated": "二叉树",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5511145272867025,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2642",
+          "isFavor": false,
+          "solutionNum": 46,
+          "title": "Design Graph With Shortest Path Calculator",
+          "titleCn": "设计可以求最短路径的图类",
+          "titleSlug": "design-graph-with-shortest-path-calculator",
+          "topicTags": [
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nzbej",
+              "name": "Design",
+              "slug": "design",
+              "nameTranslated": "设计",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "48rxpj",
+              "name": "Shortest Path",
+              "slug": "shortest-path",
+              "nameTranslated": "最短路",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xp2oh0e",
+              "name": "Heap (Priority Queue)",
+              "slug": "heap-priority-queue",
+              "nameTranslated": "堆（优先队列）",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/25ef7004b08edb8c72e8ce7d36d490025c6246c908e5888805f29798acf391ca-logo-samsung-1-normal-636.png",
+                "slug": "samsung",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8037485016890051,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2643",
+          "isFavor": false,
+          "solutionNum": 33,
+          "title": "Row With Maximum Ones",
+          "titleCn": "一最多的行",
+          "titleSlug": "row-with-maximum-ones",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5064249655805415,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2644",
+          "isFavor": false,
+          "solutionNum": 28,
+          "title": "Find the Maximum Divisibility Score",
+          "titleCn": "找出可整除性得分最大的整数",
+          "titleSlug": "find-the-maximum-divisibility-score",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": null,
+                "slug": "de-shaw",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5648305084745763,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2645",
+          "isFavor": false,
+          "solutionNum": 99,
+          "title": "Minimum Additions to Make Valid String",
+          "titleCn": "构造有效字符串的最少插入数",
+          "titleSlug": "minimum-additions-to-make-valid-string",
+          "topicTags": [
+            {
+              "id": "nn04j",
+              "name": "Stack",
+              "slug": "stack",
+              "nameTranslated": "栈",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.49300411522633747,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2646",
+          "isFavor": false,
+          "solutionNum": 50,
+          "title": "Minimize the Total Price of the Trips",
+          "titleCn": "最小化旅行的价格总和",
+          "titleSlug": "minimize-the-total-price-of-the-trips",
+          "topicTags": [
+            {
+              "id": "nt875",
+              "name": "Tree",
+              "slug": "tree",
+              "nameTranslated": "树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n8id6",
+              "name": "Depth-First Search",
+              "slug": "depth-first-search",
+              "nameTranslated": "深度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/be5ec360e803521d4f6bd7233729004b801bd6a67932d2c6a10db0343efbc5b2-unnamed-2.jpg",
+                "slug": "bloomberg",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7083333333333334,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2647",
+          "isFavor": false,
+          "solutionNum": 1,
+          "title": "Color the Triangle Red",
+          "titleCn": "把三角形染成红色",
+          "titleSlug": "color-the-triangle-red",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8542600896860987,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2648",
+          "isFavor": false,
+          "solutionNum": 28,
+          "title": "Generate Fibonacci Sequence",
+          "titleCn": "生成斐波那契数列",
+          "titleSlug": "generate-fibonacci-sequence",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7878048780487805,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2649",
+          "isFavor": false,
+          "solutionNum": 21,
+          "title": "Nested Array Generator",
+          "titleCn": "嵌套数组生成器",
+          "titleSlug": "nested-array-generator",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5392781316348195,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2650",
+          "isFavor": false,
+          "solutionNum": 16,
+          "title": "Design Cancellable Function",
+          "titleCn": "设计可取消函数",
+          "titleSlug": "design-cancellable-function",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8754248212820813,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2651",
+          "isFavor": false,
+          "solutionNum": 25,
+          "title": "Calculate Delayed Arrival Time",
+          "titleCn": "计算列车到站时间",
+          "titleSlug": "calculate-delayed-arrival-time",
+          "topicTags": [
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8406042453444459,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2652",
+          "isFavor": false,
+          "solutionNum": 37,
+          "title": "Sum Multiples",
+          "titleCn": "倍数求和",
+          "titleSlug": "sum-multiples",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "3vubuc",
+              "name": "Number Theory",
+              "slug": "number-theory",
+              "nameTranslated": "数论",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.34686854783207155,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2653",
+          "isFavor": false,
+          "solutionNum": 60,
+          "title": "Sliding Subarray Beauty",
+          "titleCn": "滑动子数组的美丽值",
+          "titleSlug": "sliding-subarray-beauty",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "x571onh",
+              "name": "Sliding Window",
+              "slug": "sliding-window",
+              "nameTranslated": "滑动窗口",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4013738959764475,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2654",
+          "isFavor": false,
+          "solutionNum": 27,
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleCn": "使数组所有元素变成 1 的最少操作次数",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "3vubuc",
+              "name": "Number Theory",
+              "slug": "number-theory",
+              "nameTranslated": "数论",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6428571428571429,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2655",
+          "isFavor": false,
+          "solutionNum": 3,
+          "title": "Find Maximal Uncovered Ranges",
+          "titleCn": "寻找最大长度的未覆盖区间",
+          "titleSlug": "find-maximal-uncovered-ranges",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8497790868924889,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2656",
+          "isFavor": false,
+          "solutionNum": 37,
+          "title": "Maximum Sum With Exactly K Elements ",
+          "titleCn": "K 个元素的最大和",
+          "titleSlug": "maximum-sum-with-exactly-k-elements",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8392307692307692,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2657",
+          "isFavor": false,
+          "solutionNum": 35,
+          "title": "Find the Prefix Common Array of Two Arrays",
+          "titleCn": "找到两个数组的前缀公共数组",
+          "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.600354540082726,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2658",
+          "isFavor": false,
+          "solutionNum": 34,
+          "title": "Maximum Number of Fish in a Grid",
+          "titleCn": "网格图中鱼的最大数目",
+          "titleSlug": "maximum-number-of-fish-in-a-grid",
+          "topicTags": [
+            {
+              "id": "n8id6",
+              "name": "Depth-First Search",
+              "slug": "depth-first-search",
+              "nameTranslated": "深度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n30w2",
+              "name": "Breadth-First Search",
+              "slug": "breadth-first-search",
+              "nameTranslated": "广度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n6a2i",
+              "name": "Union Find",
+              "slug": "union-find",
+              "nameTranslated": "并查集",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.37703631010794897,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2659",
+          "isFavor": false,
+          "solutionNum": 26,
+          "title": "Make Array Empty",
+          "titleCn": "将数组清空",
+          "titleSlug": "make-array-empty",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n16hs",
+              "name": "Binary Indexed Tree",
+              "slug": "binary-indexed-tree",
+              "nameTranslated": "树状数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nytfd",
+              "name": "Segment Tree",
+              "slug": "segment-tree",
+              "nameTranslated": "线段树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "drclh",
+              "name": "Binary Search",
+              "slug": "binary-search",
+              "nameTranslated": "二分查找",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "qwy9jd",
+              "name": "Ordered Set",
+              "slug": "ordered-set",
+              "nameTranslated": "有序集合",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.32961114030478195,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2660",
+          "isFavor": false,
+          "solutionNum": 36,
+          "title": "Determine the Winner of a Bowling Game",
+          "titleCn": "保龄球游戏的获胜者",
+          "titleSlug": "determine-the-winner-of-a-bowling-game",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xeyjfe6",
+              "name": "Simulation",
+              "slug": "simulation",
+              "nameTranslated": "模拟",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 2,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              },
+              {
+                "imgUrl": null,
+                "slug": "de-shaw",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5095916205719666,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2661",
+          "isFavor": false,
+          "solutionNum": 45,
+          "title": "First Completely Painted Row or Column",
+          "titleCn": "找出叠涂元素",
+          "titleSlug": "first-completely-painted-row-or-column",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode.cn/1675928747-DuwjgM-Citadel.png",
+                "slug": "citadel",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3619335347432024,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2662",
+          "isFavor": false,
+          "solutionNum": 51,
+          "title": "Minimum Cost of a Path With Special Roads",
+          "titleCn": "前往目标的最小代价",
+          "titleSlug": "minimum-cost-of-a-path-with-special-roads",
+          "topicTags": [
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "48rxpj",
+              "name": "Shortest Path",
+              "slug": "shortest-path",
+              "nameTranslated": "最短路",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xp2oh0e",
+              "name": "Heap (Priority Queue)",
+              "slug": "heap-priority-queue",
+              "nameTranslated": "堆（优先队列）",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/25ef7004b08edb8c72e8ce7d36d490025c6246c908e5888805f29798acf391ca-logo-samsung-1-normal-636.png",
+                "slug": "samsung",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4483050847457627,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2663",
+          "isFavor": false,
+          "solutionNum": 33,
+          "title": "Lexicographically Smallest Beautiful String",
+          "titleCn": "字典序最小的美丽字符串",
+          "titleSlug": "lexicographically-smallest-beautiful-string",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6506024096385542,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2664",
+          "isFavor": false,
+          "solutionNum": 4,
+          "title": "The Knight’s Tour",
+          "titleCn": "巡逻的骑士",
+          "titleSlug": "the-knights-tour",
+          "topicTags": [
+            {
+              "id": "nbdc3",
+              "name": "Recursion",
+              "slug": "recursion",
+              "nameTranslated": "递归",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/dc8ca8220e0392cd08f0832bf03d6df599fa081505f307f09fdc91139aa4b54b-c0c9bfecd0329eeeaee48437456956fea5fcb84185f37de7656eabfe54c595e1-unnamed-1.png",
+                "slug": "microsoft",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6682242990654206,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2665",
+          "isFavor": false,
+          "solutionNum": 27,
+          "title": "Counter II",
+          "titleCn": "计数器 II",
+          "titleSlug": "counter-ii",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8468410976388002,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2666",
+          "isFavor": false,
+          "solutionNum": 26,
+          "title": "Allow One Function Call",
+          "titleCn": "只允许一次函数调用",
+          "titleSlug": "allow-one-function-call",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.9049758120248791,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2667",
+          "isFavor": false,
+          "solutionNum": 19,
+          "title": "Create Hello World Function",
+          "titleCn": "创建 Hello World 函数",
+          "titleSlug": "create-hello-world-function",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7039106145251397,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2668",
+          "isFavor": false,
+          "solutionNum": 4,
+          "title": "Find Latest Salaries",
+          "titleCn": "查询员工当前薪水",
+          "titleSlug": "find-latest-salaries",
+          "topicTags": [
+            {
+              "id": "pzpd7s",
+              "name": "Database",
+              "slug": "database",
+              "nameTranslated": "数据库",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7530120481927711,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2669",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Count Artist Occurrences On Spotify Ranking List",
+          "titleCn": "统计 Spotify 排行榜上艺术家出现次数",
+          "titleSlug": "count-artist-occurrences-on-spotify-ranking-list",
+          "topicTags": [
+            {
+              "id": "pzpd7s",
+              "name": "Database",
+              "slug": "database",
+              "nameTranslated": "数据库",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7617079889807162,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2670",
+          "isFavor": false,
+          "solutionNum": 45,
+          "title": "Find the Distinct Difference Array",
+          "titleCn": "找出不同元素数目差数组",
+          "titleSlug": "find-the-distinct-difference-array",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.3232101399259585,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2671",
+          "isFavor": false,
+          "solutionNum": 50,
+          "title": "Frequency Tracker",
+          "titleCn": "频率跟踪器",
+          "titleSlug": "frequency-tracker",
+          "topicTags": [
+            {
+              "id": "nzbej",
+              "name": "Design",
+              "slug": "design",
+              "nameTranslated": "设计",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5856750751535746,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2672",
+          "isFavor": false,
+          "solutionNum": 43,
+          "title": "Number of Adjacent Elements With the Same Color",
+          "titleCn": "有相同颜色的相邻元素数目",
+          "titleSlug": "number-of-adjacent-elements-with-the-same-color",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6624075319435104,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2673",
+          "isFavor": false,
+          "solutionNum": 66,
+          "title": "Make Costs of Paths Equal in a Binary Tree",
+          "titleCn": "使二叉树所有路径值相等的最小代价",
+          "titleSlug": "make-costs-of-paths-equal-in-a-binary-tree",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nt875",
+              "name": "Tree",
+              "slug": "tree",
+              "nameTranslated": "树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "ehgq01",
+              "name": "Binary Tree",
+              "slug": "binary-tree",
+              "nameTranslated": "二叉树",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8666666666666667,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2674",
+          "isFavor": false,
+          "solutionNum": 5,
+          "title": "Split a Circular Linked List",
+          "titleCn": "拆分循环链表",
+          "titleSlug": "split-a-circular-linked-list",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5588235294117647,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2675",
+          "isFavor": false,
+          "solutionNum": 20,
+          "title": "Array of Objects to Matrix",
+          "titleCn": "将对象数组转换为矩阵",
+          "titleSlug": "array-of-objects-to-matrix",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4263233190271817,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2676",
+          "isFavor": false,
+          "solutionNum": 21,
+          "title": "Throttle",
+          "titleCn": "节流",
+          "titleSlug": "throttle",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.754932502596054,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2677",
+          "isFavor": false,
+          "solutionNum": 21,
+          "title": "Chunk Array",
+          "titleCn": "分块数组",
+          "titleSlug": "chunk-array",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8460698689956332,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2678",
+          "isFavor": false,
+          "solutionNum": 27,
+          "title": "Number of Senior Citizens",
+          "titleCn": "老人的数目",
+          "titleSlug": "number-of-senior-citizens",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7593235039028621,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2679",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Sum in a Matrix",
+          "titleCn": "矩阵中的和",
+          "titleSlug": "sum-in-a-matrix",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xeyjfe6",
+              "name": "Simulation",
+              "slug": "simulation",
+              "nameTranslated": "模拟",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xp2oh0e",
+              "name": "Heap (Priority Queue)",
+              "slug": "heap-priority-queue",
+              "nameTranslated": "堆（优先队列）",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.4246350664261112,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2680",
+          "isFavor": false,
+          "solutionNum": 31,
+          "title": "Maximum OR",
+          "titleCn": "最大或值",
+          "titleSlug": "maximum-or",
+          "topicTags": [
+            {
+              "id": "n7hqh",
+              "name": "Greedy",
+              "slug": "greedy",
+              "nameTranslated": "贪心",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nizi1",
+              "name": "Bit Manipulation",
+              "slug": "bit-manipulation",
+              "nameTranslated": "位运算",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "kr7kj3",
+              "name": "Prefix Sum",
+              "slug": "prefix-sum",
+              "nameTranslated": "前缀和",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.35343846529019673,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2681",
+          "isFavor": false,
+          "solutionNum": 23,
+          "title": "Power of Heroes",
+          "titleCn": "英雄的力量",
+          "titleSlug": "power-of-heroes",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "kr7kj3",
+              "name": "Prefix Sum",
+              "slug": "prefix-sum",
+              "nameTranslated": "前缀和",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "1v8x3g",
+              "name": "Sorting",
+              "slug": "sorting",
+              "nameTranslated": "排序",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.545720823798627,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2682",
+          "isFavor": false,
+          "solutionNum": 33,
+          "title": "Find the Losers of the Circular Game",
+          "titleCn": "找出转圈游戏输家",
+          "titleSlug": "find-the-losers-of-the-circular-game",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wzve3",
+              "name": "Hash Table",
+              "slug": "hash-table",
+              "nameTranslated": "哈希表",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xeyjfe6",
+              "name": "Simulation",
+              "slug": "simulation",
+              "nameTranslated": "模拟",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6895703933747412,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2683",
+          "isFavor": false,
+          "solutionNum": 43,
+          "title": "Neighboring Bitwise XOR",
+          "titleCn": "相邻值的按位异或",
+          "titleSlug": "neighboring-bitwise-xor",
+          "topicTags": [
+            {
+              "id": "nizi1",
+              "name": "Bit Manipulation",
+              "slug": "bit-manipulation",
+              "nameTranslated": "位运算",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.41069022308728853,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2684",
+          "isFavor": false,
+          "solutionNum": 62,
+          "title": "Maximum Number of Moves in a Grid",
+          "titleCn": "矩阵中移动的最大次数",
+          "titleSlug": "maximum-number-of-moves-in-a-grid",
+          "topicTags": [
+            {
+              "id": "wg0rh",
+              "name": "Array",
+              "slug": "array",
+              "nameTranslated": "数组",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "d2tn7",
+              "name": "Dynamic Programming",
+              "slug": "dynamic-programming",
+              "nameTranslated": "动态规划",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "uw538v",
+              "name": "Matrix",
+              "slug": "matrix",
+              "nameTranslated": "矩阵",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://assets.leetcode-cn.com/aliyun-lc-upload/uploaded_files/2022/09/e9108030-576a-4a77-8539-75de09ce5a5a/%E5%85%AC%E5%8F%B8%20Logo%E7%9A%84%E5%89%AF%E6%9C%AC.png",
+                "slug": "amazon",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6703655352480418,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2685",
+          "isFavor": false,
+          "solutionNum": 45,
+          "title": "Count the Number of Complete Components",
+          "titleCn": "统计完全连通分量的数量",
+          "titleSlug": "count-the-number-of-complete-components",
+          "topicTags": [
+            {
+              "id": "n8id6",
+              "name": "Depth-First Search",
+              "slug": "depth-first-search",
+              "nameTranslated": "深度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n30w2",
+              "name": "Breadth-First Search",
+              "slug": "breadth-first-search",
+              "nameTranslated": "广度优先搜索",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6859504132231405,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2686",
+          "isFavor": false,
+          "solutionNum": 3,
+          "title": "Immediate Food Delivery III",
+          "titleCn": "即时食物配送 III",
+          "titleSlug": "immediate-food-delivery-iii",
+          "topicTags": [
+            {
+              "id": "pzpd7s",
+              "name": "Database",
+              "slug": "database",
+              "nameTranslated": "数据库",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.8794326241134752,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2687",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Bikes Last Time Used ",
+          "titleCn": "自行车的最后使用时间",
+          "titleSlug": "bikes-last-time-used",
+          "topicTags": [
+            {
+              "id": "pzpd7s",
+              "name": "Database",
+              "slug": "database",
+              "nameTranslated": "数据库",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.41739130434782606,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2688",
+          "isFavor": false,
+          "solutionNum": 6,
+          "title": "Find Active Users",
+          "titleCn": "查找活跃用户",
+          "titleSlug": "find-active-users",
+          "topicTags": [
+            {
+              "id": "pzpd7s",
+              "name": "Database",
+              "slug": "database",
+              "nameTranslated": "数据库",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.735632183908046,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2689",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Extract Kth Character From The Rope Tree",
+          "titleCn": "",
+          "titleSlug": "extract-kth-character-from-the-rope-tree",
+          "topicTags": [
+            {
+              "id": "nt875",
+              "name": "Tree",
+              "slug": "tree",
+              "nameTranslated": "树",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "n8id6",
+              "name": "Depth-First Search",
+              "slug": "depth-first-search",
+              "nameTranslated": "深度优先搜索",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 1,
+            "hasVideoSolution": false,
+            "topCompanyTags": [
+              {
+                "imgUrl": "https://pic.leetcode-cn.com/45a64add888e66ff6d3c551bed948528715996937b877aaf6fdc08eae74789f5-google-logo-png-open-2000.png",
+                "slug": "google",
+                "__typename": "CommonTagNode"
+              }
+            ],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.9787234042553191,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2690",
+          "isFavor": false,
+          "solutionNum": 1,
+          "title": "Infinite Method Object",
+          "titleCn": "无穷方法对象",
+          "titleSlug": "infinite-method-object",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.273972602739726,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2691",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Immutability Helper",
+          "titleCn": "不可变辅助工具",
+          "titleSlug": "immutability-helper",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": true,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2692",
+          "isFavor": false,
+          "solutionNum": 2,
+          "title": "Make Object Immutable",
+          "titleCn": "使对象不可变",
+          "titleSlug": "make-object-immutable",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7857142857142857,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2693",
+          "isFavor": false,
+          "solutionNum": 12,
+          "title": "Call Function with Custom Context",
+          "titleCn": "使用自定义上下文调用函数",
+          "titleSlug": "call-function-with-custom-context",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6517857142857143,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2694",
+          "isFavor": false,
+          "solutionNum": 4,
+          "title": "Event Emitter",
+          "titleCn": "事件发射器",
+          "titleSlug": "event-emitter",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7116704805491991,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2695",
+          "isFavor": false,
+          "solutionNum": 8,
+          "title": "Array Wrapper",
+          "titleCn": "包装数组",
+          "titleSlug": "array-wrapper",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.7331520454008039,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2696",
+          "isFavor": false,
+          "solutionNum": 53,
+          "title": "Minimum String Length After Removing Substrings",
+          "titleCn": "删除子串后的字符串最小长度",
+          "titleSlug": "minimum-string-length-after-removing-substrings",
+          "topicTags": [
+            {
+              "id": "nn04j",
+              "name": "Stack",
+              "slug": "stack",
+              "nameTranslated": "栈",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xeyjfe6",
+              "name": "Simulation",
+              "slug": "simulation",
+              "nameTranslated": "模拟",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.843375322507209,
+          "difficulty": "EASY",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2697",
+          "isFavor": false,
+          "solutionNum": 48,
+          "title": "Lexicographically Smallest Palindrome",
+          "titleCn": "字典序最小回文串",
+          "titleSlug": "lexicographically-smallest-palindrome",
+          "topicTags": [
+            {
+              "id": "do5us",
+              "name": "Two Pointers",
+              "slug": "two-pointers",
+              "nameTranslated": "双指针",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "dofid",
+              "name": "String",
+              "slug": "string",
+              "nameTranslated": "字符串",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.6644951140065146,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2698",
+          "isFavor": false,
+          "solutionNum": 71,
+          "title": "Find the Punishment Number of an Integer",
+          "titleCn": "求一个整数的惩罚数",
+          "titleSlug": "find-the-punishment-number-of-an-integer",
+          "topicTags": [
+            {
+              "id": "nbdc3",
+              "name": "Recursion",
+              "slug": "recursion",
+              "nameTranslated": "递归",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "deo8r",
+              "name": "Math",
+              "slug": "math",
+              "nameTranslated": "数学",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.2532313853995995,
+          "difficulty": "HARD",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2699",
+          "isFavor": false,
+          "solutionNum": 34,
+          "title": "Modify Graph Edge Weights",
+          "titleCn": "修改图中的边权",
+          "titleSlug": "modify-graph-edge-weights",
+          "topicTags": [
+            {
+              "id": "nkrae",
+              "name": "Graph",
+              "slug": "graph",
+              "nameTranslated": "图",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "48rxpj",
+              "name": "Shortest Path",
+              "slug": "shortest-path",
+              "nameTranslated": "最短路",
+              "__typename": "CommonTagNode"
+            },
+            {
+              "id": "xp2oh0e",
+              "name": "Heap (Priority Queue)",
+              "slug": "heap-priority-queue",
+              "nameTranslated": "堆（优先队列）",
+              "__typename": "CommonTagNode"
+            }
+          ],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        },
+        {
+          "__typename": "QuestionLightNode",
+          "acRate": 0.5862068965517241,
+          "difficulty": "MEDIUM",
+          "freqBar": 0,
+          "paidOnly": false,
+          "status": "NOT_STARTED",
+          "frontendQuestionId": "2700",
+          "isFavor": false,
+          "solutionNum": 17,
+          "title": "Differences Between Two Objects",
+          "titleCn": "两个对象之间的差异",
+          "titleSlug": "differences-between-two-objects",
+          "topicTags": [],
+          "extra": {
+            "companyTagNum": 0,
+            "hasVideoSolution": false,
+            "topCompanyTags": [],
+            "__typename": "QuestionExtraInfoNode"
+          }
+        }
+      ],
+      "hasMore": true,
+      "total": 3101
+    }
+  }
+}
